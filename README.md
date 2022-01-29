@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Yukki Music Bot ⭐️</b></h1>
+<h1 align= center><b>💫💥 Kabir Musical Bot 💫💥</b></h1>
 <h3 align = center> Multi-Assistant | Video Calls | Voice Calls | Heroku Supported</h3>
 
 <p align="center">
@@ -20,12 +20,14 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/YukkiRobot"> YukkiMusicBot </a> |
-    <a href="https://t.me/OfficialYukkiSupport"> YukkiSupport </a>
+    
+    <a href="https://t.me/python_userbot_support_pro"> PythonSupport </a>
 </p>
     
 <h1 align="center">
+    
    Deployment
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-LEGEND-PRO/Kabir-MusicalBot)
 </h1>
 
 ## 🔗 Requirements
@@ -45,8 +47,8 @@ sudo pip3 install -U pip
 curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash -
 sudo apt-get install nodejs -y
 npm i -g npm
-git clone https://github.com/notreallyshikhar/YukkiMusicBot
-cd YukkiMusicBot
+git clone https://github.com/DARK-LEGEND-PRO/Kabir-MusicalBot
+cd KabirMusicBot
 pip3 install -U -r requirements.txt
 cp sample.env .env
 ```
@@ -58,8 +60,7 @@ bash start
 ```
 
 ## 🔗 Deploy on Heroku
-<p>
-<a href="https://heroku.com/deploy?template=https://github.com/attitudeking1/YukkiXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  </p>
+
 
 ## 🔗 Generating Pyrogram Session
 <p>
